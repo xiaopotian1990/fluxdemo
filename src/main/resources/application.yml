@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      password: zoulu19900206
+      username: root
+      host: 182.254.221.58
+      database: webflux
+      authentication-database: admin
